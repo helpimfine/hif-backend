@@ -1,0 +1,7 @@
+# Ignore .env file and virtual environment
+.env
+apienv
+/helper.txt
+__pycache__/
+config.yml
+.DS_Store
